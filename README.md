@@ -40,6 +40,7 @@ pip install streamlit PyPDF2
 ## ▶️ Run the Project
 
 streamlit run app.py
+https://ai-resume-analyzer-jryu79kj9uujac4xsjgck7.streamlit.app/
 
 ---
 
