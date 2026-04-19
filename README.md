@@ -27,12 +27,12 @@ resume-analyzer/
 ## ⚙️ Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/resume-analyzer.git
+   https://github.com/kotni-bhavani/AI-resume-Analyzer/edit/main/README.md
 
-2. Navigate to project folder:
+3. Navigate to project folder:
 cd resume-analyzer
 
-3. Install dependencies:
+4. Install dependencies:
 pip install streamlit PyPDF2
 
 ---
